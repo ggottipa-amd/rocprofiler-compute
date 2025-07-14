@@ -27,6 +27,8 @@ import glob
 import os
 import sys
 
+print("Testing git prs")
+
 if __name__ == "__main__":
     my_parser = argparse.ArgumentParser(description="create test_analyze_workloads.py")
 
